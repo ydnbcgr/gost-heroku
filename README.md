@@ -1,5 +1,5 @@
 ## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/ydnbcgr
-Fgost-heroku)
+gost-heroku)
 
 > 1. 服务端部署后，view查看，显示`404 page not found`，表示部署成功。
 
